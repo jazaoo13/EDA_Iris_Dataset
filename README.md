@@ -21,15 +21,3 @@ The Iris dataset was divided into training and testing sets to evaluate the perf
 
 ## Conclusion
 The project demonstrates the process of exploratory data analysis on the Iris dataset, including the estimation of 1D and 2D Gaussians and the creation of scatter plots. This analysis helps in understanding the distribution and relationship of features within the dataset, providing insights that are valuable for further machine learning tasks.
-
-## Requirements
-- Python 3.x
-- Libraries: pandas, matplotlib, seaborn, numpy, scikit-learn
-
-## How to Run
-1. Clone the repository.
-2. Install the required libraries.
-3. Run the Jupyter notebook in Google Colab or locally to see the analysis.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
